@@ -1,0 +1,7 @@
+Intergration steps
+1.pip install django_daraja
+2.On your templates folder create a payment/pay html file
+3.add django_daraja to your settings as installed apps
+4.On you views create function to create payments
+5.run migrations on your app and django_daraja
+6.Perform migrate on the fields
